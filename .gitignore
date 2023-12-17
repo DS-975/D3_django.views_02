@@ -1,2 +1,7 @@
 /venv
 /.idea
+
+
+# Устанавливаем библиотеки из requirements.txt (Django)
+pip install -r requirements.txt
+#
