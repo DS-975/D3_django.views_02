@@ -1,4 +1,4 @@
-# region todo: Создаём виртуальное окружение (venv) 20.12.2023
+# region todo: Создаём виртуальное окружение (venv) 21.12.2023
 # python -m venv venv
 # todo: Активируем виртуальное окружение
 # .\venv\Scripts\activate
